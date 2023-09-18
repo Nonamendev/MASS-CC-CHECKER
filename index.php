@@ -4,7 +4,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="title" content="CC Checker - Free credit card checker namso-gen.eu.org" />
+  <meta name="title" content="CC Checker - Free credit card checker make by CFyoco" />
   <meta name="description" content="cc checker for free credit card numbers." />
   <meta name="keywords" content="cc,checker,mass cc checker,bin,generated cc,credit card,live,dead" />
   <meta name="robots" content="index, follow" />
@@ -20,13 +20,13 @@
   <link rel="apple-touch-icon" sizes="180x180" href="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/apple-touch-icon.png" />
   <link rel="icon" type="image/png" href="https://rawcdn.githack.com/OshekharO/Entertainment-Index/17d005915d5e20780a46aef227f08367ca8efb3a/img/favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="https://github.com/OshekharO/Entertainment-Index/blob/master/img/favicon-16x16.png" sizes="16x16" />
-  <title>CHECKER CC</title>
+  <title>CHECKER CC by CFyoco</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous" />
   <link href="style.css" rel="stylesheet" />
  </head>
 
  <body>
-  <div class="fs-3 fw-bold mb-5 text-uppercase mx-auto text-center text-light">Credit Card Checker</div>
+  <div class="fs-3 fw-bold mb-5 text-uppercase mx-auto text-center text-light">Credit Card Checker by CFyoco</div>
   <form method="post" action="api.php" role="form" id="form">
    <div class="box-body">
     <div class="box-content">
